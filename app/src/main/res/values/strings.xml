@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fruits</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="list">List</string>
+    <string name="request">Request</string>
+    <string name="hello_blank_fragment">Name: </string>
+    <string name="loading">Loading...</string>
+    <string name="wait">Wait please</string>
+    <string name="error">There was an error</string>
+
+</resources>
